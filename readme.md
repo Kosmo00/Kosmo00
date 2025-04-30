@@ -114,8 +114,22 @@ Here are some of the technologies I frequently use.
     </picture>
 </div>
 
+## Goals
+
+After five years as a programmer, I’ve realized how much impactful software remains to be built. Now, I want to help organizations improve their systems and contribute to open-source projects giving back to the community that has given me so much.
+
+So let's give the snake a lot of contributions to eat :)
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kosmo00/kosmo00/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kosmo00/kosmo00/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kosmo00/kosmo00/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Portfolio
+
+Comming soon...
+
+## Contact me
+
+If you appreciate my work, feel free to email me. I’ll reply as soon as possible!
