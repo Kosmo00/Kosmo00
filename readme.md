@@ -16,27 +16,27 @@ Here are some of the technologies I frequently use.
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Mint-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Mint-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Mint-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Mint-Light.svg" height="61" width="61">
     </picture>
 </div>
 
@@ -44,49 +44,49 @@ Here are some of the technologies I frequently use.
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="61" width="61">
     </picture>
 </div>
 
 <div style="display: flex;">
     <picture style="margin-right: 5px;">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Sequelize-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Sequelize-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sequelize-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sequelize-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Light.svg" height="61" width="61">
     </picture>
 </div>
 
@@ -94,23 +94,23 @@ Here are some of the technologies I frequently use.
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="61" width="61">
     </picture>
     <picture style="margin-right: 5px;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Light.svg">
-        <img alt="nodejs" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Light.svg" height="61" width="61">
+        <img alt="icon" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Light.svg" height="61" width="61">
     </picture>
 </div>
 
