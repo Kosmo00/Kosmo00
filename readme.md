@@ -128,7 +128,7 @@ So let's give the snake a lot of contributions to eat :)
 
 ## Portfolio
 
-Comming soon...
+Coming soon...
 
 ## Contact me
 
