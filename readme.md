@@ -5,7 +5,7 @@
 
 Hi, I'm **Vladimir (Kosmo) Otero Mariño**, a **Senior AI Agent Developer** and founder of **Fragua Tech**, based in Bilbao (Basque Country, Spain).
 
-I build **AI agents and automations that work in production**, not just in demos: multi-step agents with LangChain and LangGraph, MCP servers that connect models to real tools and data, and workflows on top of Claude, OpenAI, Gemini and DeepSeek. Under the hood I'm a full-stack TypeScript developer (React, Node.js, Express, PostgreSQL, Docker), which is what lets those agents ship as real products.
+I build **AI agents and automations that work in production**, not just in demos: multi-step agents with LangChain and LangGraph, RAG pipelines that ground answers in real data, MCP servers that connect models to real tools and data, and workflows on top of Claude, OpenAI, Gemini and DeepSeek. Under the hood I'm a full-stack TypeScript developer (React, Node.js, Express, PostgreSQL, Docker), which is what lets those agents ship as real products.
 
 I hold a degree in Informatics Engineering (2024) and I'm a two-time **ICPC World Finalist**, so I care a lot about algorithms, performance and getting things right.
 
@@ -22,6 +22,7 @@ I hold a degree in Informatics Engineering (2024) and I'm a two-time **ICPC Worl
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/DeepSeek-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/DeepSeek-Light.svg"><img alt="DeepSeek" title="DeepSeek" src="./assets/icons/DeepSeek-Light.svg" height="48" width="48"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/LangChain-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/LangChain-Light.svg"><img alt="LangChain" title="LangChain" src="./assets/icons/LangChain-Light.svg" height="48" width="48"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/LangGraph-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/LangGraph-Light.svg"><img alt="LangGraph" title="LangGraph" src="./assets/icons/LangGraph-Light.svg" height="48" width="48"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/RAG-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/RAG-Light.svg"><img alt="RAG" title="RAG" src="./assets/icons/RAG-Light.svg" height="48" width="48"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/MCP-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/MCP-Light.svg"><img alt="MCP" title="MCP" src="./assets/icons/MCP-Light.svg" height="48" width="48"></picture>
 </td>
 </tr>
