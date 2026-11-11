@@ -3,14 +3,28 @@
 
 ## About
 
-I'm a computer science enthusiast who loves programming. I enjoy developing software and optimizing it. I earned my degree in Informatics Engineering in 2024, and I was a two-time ICPC World Finalist.
+Hi, I'm **Vladimir (Kosmo) Otero Mariño**, a **Senior AI Agent Developer** and founder of **Fragua Tech**, based in Bilbao (Basque Country, Spain).
 
-Today I work mostly as a **full-stack TypeScript developer**: React + Vite + Tailwind on the frontend, Node.js + Express + Sequelize on the backend, and PostgreSQL/MySQL underneath, all shipped with Docker. I also build desktop and mobile apps with Electron, Tauri and React Native, and lately I spend a lot of time building **AI agents, MCP servers and automations** on top of Claude Code.
+I build **AI agents and automations that work in production**, not just in demos: multi-step agents with LangChain and LangGraph, MCP servers that connect models to real tools and data, and workflows on top of Claude, OpenAI, Gemini and DeepSeek. Under the hood I'm a full-stack TypeScript developer (React, Node.js, Express, PostgreSQL, Docker), which is what lets those agents ship as real products.
+
+I hold a degree in Informatics Engineering (2024) and I'm a two-time **ICPC World Finalist**, so I care a lot about algorithms, performance and getting things right.
 
 ### Tech stack
 
 <!-- Technologies -->
 <table>
+<tr>
+<td><b>AI &amp; Agents</b></td>
+<td>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/ClaudeCode-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/ClaudeCode-Light.svg"><img alt="Claude Code" title="Claude Code" src="./assets/icons/ClaudeCode-Light.svg" height="48" width="48"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/OpenAI-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/OpenAI-Light.svg"><img alt="OpenAI" title="OpenAI" src="./assets/icons/OpenAI-Light.svg" height="48" width="48"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Gemini-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/Gemini-Light.svg"><img alt="Gemini" title="Gemini" src="./assets/icons/Gemini-Light.svg" height="48" width="48"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/DeepSeek-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/DeepSeek-Light.svg"><img alt="DeepSeek" title="DeepSeek" src="./assets/icons/DeepSeek-Light.svg" height="48" width="48"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/LangChain-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/LangChain-Light.svg"><img alt="LangChain" title="LangChain" src="./assets/icons/LangChain-Light.svg" height="48" width="48"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/LangGraph-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/LangGraph-Light.svg"><img alt="LangGraph" title="LangGraph" src="./assets/icons/LangGraph-Light.svg" height="48" width="48"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/MCP-Dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/MCP-Light.svg"><img alt="MCP" title="MCP" src="./assets/icons/MCP-Light.svg" height="48" width="48"></picture>
+</td>
+</tr>
 <tr>
 <td><b>Languages</b></td>
 <td>
@@ -85,7 +99,7 @@ Today I work mostly as a **full-stack TypeScript developer**: React + Vite + Tai
 
 ## Goals
 
-After several years as a programmer, I’ve realized how much impactful software remains to be built. Now, I want to help organizations improve their systems, bring AI into their workflows in a useful way, and contribute to open-source projects, giving back to the community that has given me so much.
+There's still a huge amount of impactful software to build, and AI agents are changing how it gets built. With Fragua Tech I help companies bring agents and automation into their day-to-day work in a way that is reliable and measurable. Alongside that, I want to keep contributing to open source, giving back to the community that has given me so much.
 
 So let's give the snake a lot of contributions to eat :)
 
@@ -101,4 +115,4 @@ Coming soon...
 
 ## Contact me
 
-If you appreciate my work, feel free to email me. I’ll reply as soon as possible!
+Want to talk about AI agents or automation? Reach out on [LinkedIn](https://www.linkedin.com/in/vladimir-otero-mari%C3%B1o/). I'll reply as soon as possible!
